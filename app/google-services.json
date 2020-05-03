@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "770197778457",
+    "firebase_url": "https://intertranslation-918ae.firebaseio.com",
+    "project_id": "intertranslation-918ae",
+    "storage_bucket": "intertranslation-918ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770197778457:android:861e432932035b569a7a88",
+        "android_client_info": {
+          "package_name": "com.example.intertranslation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770197778457-6361h7or1b9ja6t8kdhct5kdtp0elc60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvLLv1aWlstNE0NjU_3Zw2v1FJ1-S-VJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770197778457-6361h7or1b9ja6t8kdhct5kdtp0elc60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
